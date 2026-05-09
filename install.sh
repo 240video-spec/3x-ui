@@ -3,4 +3,4 @@ sudo apt install curl wget -y
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
 
-bash <(curl -Ls https://raw.githubusercontent.com/240video-spec/3x-ui/refs/heads/main/install)
+/*bash <(curl -Ls https://raw.githubusercontent.com/240video-spec/3x-ui/refs/heads/main/install)*/
