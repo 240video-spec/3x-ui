@@ -1,5 +1,6 @@
 sudo apt update && sudo apt upgrade -y
-sudo apt install curl wget -y
+sudo reboot
+# sudo apt install curl wget -y
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
 
