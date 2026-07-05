@@ -4,4 +4,7 @@ sudo reboot
 bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
 
 
+openssl rand -base64 32
+passwd
+
 #  bash <(curl -Ls https://raw.githubusercontent.com/240video-spec/3x-ui/refs/heads/main/install)
